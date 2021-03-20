@@ -1,0 +1,34 @@
+.header{
+    width:100%;
+    height:200px;
+    background-image: '/home/chris/Documents/Coding Projects/movie-site/Images/6011023_031320-cc-ss-empty-theater-img.jpg';
+    margin-bottom:2%;
+}
+.headerSearch{
+    border-radius: 10px;
+    width: 60%;
+    margin-left:20%;
+    margin-right:20%;
+    margin-top:10%;
+    margin-bottom:10%;
+    padding-top:10px;
+    padding-bottom:10px;
+
+}
+.divText{
+    margin-left:2%;
+}
+.recentMovieDiv{
+    width:150px;
+    height:200px;
+    border:solid;
+    border-radius:10px;
+    margin-left:2%;
+    margin-right:2%;
+    float:left;
+}
+.recentMoveImg{
+    height:75%;
+    width:100%;
+    border-bottom:solid;
+}
